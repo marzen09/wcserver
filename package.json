@@ -1,0 +1,11 @@
+{
+  "name": "webapp_project",
+  "version": "1.0.0",
+  "description": "MEVN Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Marzen Alexis Tumali",
+  "license": "ISC"
+}
